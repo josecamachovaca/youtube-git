@@ -16,3 +16,5 @@
 13. git push			sube todos los cambios al repo
 14. git commit -am "coment"	es como hacer un git add . y un git commit al mismo tiempo
 15. git status			da el status del directorio actual 
+16. git fetch			actualiza el branch local pero sin hacer update
+17. git pull			actualiza el branch local haciendo update
