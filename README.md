@@ -13,4 +13,5 @@
 11. git merge rama-heroes	hace un merge desde la rama heroes hacia la rama actual
 				presionar ESC wq!  para salir y que se grabe el merge inmediatamente
 12. git branch -d rama-heroes	borra la rama rama-heroes
-
+13. git push			sube todos los cambios al repo
+14. git commit -am "coment"	es como hacer un git add . y un git commit al mismo tiempo
